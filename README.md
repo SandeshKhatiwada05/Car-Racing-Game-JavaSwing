@@ -141,8 +141,6 @@ To use custom car images:
 
 ---
 
-## Screenshots
-
 ## Credits
 
 Designed and coded with Java Swing. Inspired by classic lane‑runner games and neon synthwave vibes.
