@@ -24,7 +24,6 @@ A polished, neon‑styled, top‑down car racing game built with Java Swing. Ste
 - docs/screenshots/gameplay.png — Gameplay with HUD
 - docs/screenshots/gameover.png — Game Over with high scores
 
-(Place screenshots in docs/screenshots to display them here.)
 
 ---
 
