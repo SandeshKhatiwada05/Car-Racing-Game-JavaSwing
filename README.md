@@ -2,8 +2,6 @@
 
 A polished, neon‑styled, top‑down car racing game built with Java Swing. Steer through lanes, avoid oncoming traffic, rack up points over time, and save your high scores locally. Clean OOP design and no external assets required.
 
-![Neon Rush](docs/banner.png)
-
 ---
 
 ## Features
